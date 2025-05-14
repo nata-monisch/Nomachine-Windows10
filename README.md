@@ -5,3 +5,4 @@
 5. Connect RDP With App Nomachine : https://www.nomachine.com/
 
 or just use this command : docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+then Menu > Web Preview > Change Port > use 6070 or smth > Change & Preview
