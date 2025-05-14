@@ -3,3 +3,5 @@
 3. Paste Ngrok Token
 4. Select Ngrok Region
 5. Connect RDP With App Nomachine : https://www.nomachine.com/
+
+or just use this command : docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
